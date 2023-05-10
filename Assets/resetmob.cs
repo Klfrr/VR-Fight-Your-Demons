@@ -22,7 +22,7 @@ public class resetmob : MonoBehaviour
             boss.transform.position = resetPosition.transform.position;
             //boss1.transform.position = resetPosition.transform.position;
            // boss2.transform.position = resetPosition.transform.position;
-            boss3.transform.position =  new Vector3 (0f,.5f,0f);
+            //boss3.transform.position =  new Vector3 (0f,.5f,0f);
         }
     }
 }
