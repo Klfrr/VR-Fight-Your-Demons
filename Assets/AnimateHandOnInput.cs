@@ -16,6 +16,6 @@ public class AnimateHandOnInput : MonoBehaviour
     void Update()
     {
         float triggerValue = pinchAnimationAction.action.ReadValue<float>();
-       // Debug.Log(triggerValue);
+        Debug.Log(triggerValue);
     }
 }
