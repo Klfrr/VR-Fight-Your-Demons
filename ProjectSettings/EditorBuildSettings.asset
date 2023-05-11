@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PickStress.unity
     guid: a384ea8daace9794c9660a0700e99724
   - enabled: 1
+    path: Assets/Scenes/FirstRanking.unity
+    guid: 01bb88bc77ebdf841b90eb12e964a39e
+  - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 82be71ffb027b4f4c870ed3f86721e20
   m_configObjects:
