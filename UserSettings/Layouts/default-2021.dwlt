@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 84
+  controlID: 119
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 381
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 85
+  controlID: 68
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 86
+  controlID: 69
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -375,22 +375,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\concl\Documents\GitHub\VR-Fight-Your-Demons
+  m_LastProjectPath: C:\Users\kalih\Documents\GitHub\VR-Fight-Your-Demons
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 182}
-    m_SelectedIDs: 443d0200
-    m_LastClickedID: 146756
-    m_ExpandedIDs: 0000000042f1000044f100001afd010022fd0100fa3c0200083d02004c3d020000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: a67b0000
+    m_LastClickedID: 31654
+    m_ExpandedIDs: 00000000a67b0000a87b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000a67b0000a87b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,9 +546,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9a97f2ff
-      m_LastClickedID: -878694
-      m_ExpandedIDs: 0a4bf6ff1a4bf6ff18b9f6ffb429f7ffeee9f7ff5addfeff7ae0feff48e2feff0ee4feff7e82ffff8485ffff4487ffffd688ffff068bffff0a8dffffcef20000daf2000008f3000024f300002ef30000e2fb010038fc01009cfc0100a0180300e8180300421c0300981c0300
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: e6faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -797,7 +797,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -39.622734, y: 18.279427, z: -58.575714}
+    m_Target: {x: -1.4269577, y: 1.6911156, z: 0.7115254}
     speed: 2
     m_Value: {x: -39.622734, y: 18.279427, z: -58.575714}
   m_RenderMode: 0
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_ExposureSliderValue: 0
   m_SceneViewState:
     m_AlwaysRefresh: 0
-    showFog: 0
+    showFog: 1
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
@@ -846,15 +846,15 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.058937956, y: -0.4310918, z: 0.028231319, w: -0.8999489}
+    m_Target: {x: -0.32866082, y: 0.43556002, z: -0.17459981, w: -0.81969905}
     speed: 2
-    m_Value: {x: -0.060287237, y: -0.4310449, z: 0.028877674, w: -0.899851}
+    m_Value: {x: 0.05893796, y: 0.4310918, z: -0.028231319, w: 0.8999489}
   m_Size:
-    m_Target: 348.35724
+    m_Target: 1.4261099
     speed: 2
-    m_Value: 333.3562
+    m_Value: 348.35724
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
     m_Value: 1
   m_CameraSettings:

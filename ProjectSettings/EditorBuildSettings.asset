@@ -24,5 +24,6 @@ EditorBuildSettings:
     path: Assets/Scenes/AfterGame.unity
     guid: 85422d37ffa604f46b27fdd68524633c
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8bef0cc8577a34747ba093e340a78141, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9c85697b792284b4c800fcb6681d27c3, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2bae4ff9d735d304a9c35d2fcb5c3061, type: 2}
