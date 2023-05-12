@@ -17,9 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 82be71ffb027b4f4c870ed3f86721e20
-  - enabled: 1
-    path: Assets/Scenes/SecondRanking.unity
-    guid: 071602d85f6217546a80b4d5157cd9d1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/AfterGame.unity
     guid: 85422d37ffa604f46b27fdd68524633c
